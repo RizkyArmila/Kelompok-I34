@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  width: 100%;
+  height: 850px;
+  background-image: url(img/1.jpg);
+  background-size: cover;
+  text-align: center;
+}
+
+.judul-body {
+  padding-top: 300px;
+  color: red;
+  font-size: 60px;
+}
